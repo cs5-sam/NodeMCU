@@ -1,5 +1,5 @@
 #include<ESP8266WiFi.h>
-#include<ArduinoFirebase.h>
+#include<FirebaseArduino.h>
 
 #define WIFI_SSID "DIE"
 #define WIFI_PASS "4EDBC567"
