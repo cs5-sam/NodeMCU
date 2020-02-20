@@ -3,7 +3,7 @@
 
 #define WIFI_SSID "DIE"
 #define WIFI_PASS "4EDBC567"
-#define FIREBASE_HOST "iot-project1-93a34.firebaseio.com/"
+#define FIREBASE_HOST "iot-project1-93a34.firebaseio.com"
 #define FIREBASE_AUTH "BOlUFCQjK6LpQ5fKD7LmI5H1x4K2Ki3CcLTxXNco"
 
 int led = 0;
